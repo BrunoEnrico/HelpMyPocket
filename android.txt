@@ -1,0 +1,3 @@
+title= Ola mundo
+author=Bruno
+orientation=portrait
